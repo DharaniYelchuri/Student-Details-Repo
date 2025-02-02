@@ -1,0 +1,14 @@
+.content {
+    margin-left: 20%;
+    margin-top: 150px; 
+}
+
+td{
+    padding: 20%;
+}
+
+table tr th{
+    padding: 25px;
+    font-size: 25px;
+    font-weight: bold;
+}
