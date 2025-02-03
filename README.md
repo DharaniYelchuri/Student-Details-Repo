@@ -6,7 +6,10 @@ This web development project is developed using **PHP** and **MySQL**. The syste
 - **Student Registration**: Add new students with detailed information such as registration number, roll number, name, age, gender, course, branch, CGPA, mobile number, email, and guide details.
 - **Update Student Details**: Edit the details of existing students
 
-https://github.com/user-attachments/assets/8311d1fc-4006-4c64-ad63-6623482938b3
+
+https://github.com/user-attachments/assets/3bcaef08-286b-4918-83db-fb115c37199a
+
+
 
 .
 - **View Student Information**: View a list of all registered students and their information.
