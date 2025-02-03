@@ -19,16 +19,3 @@ https://github.com/user-attachments/assets/8311d1fc-4006-4c64-ad63-6623482938b3
 - **Database**: MySQL
 - **Tools**: PHPMyAdmin (for database management)
 
-## Installation
-1. Clone this repository to your local machine.
-2. Set up a **local server** (e.g., XAMPP, WAMP, or MAMP).
-3. Create a new MySQL database named `student_management_sys` and import the provided SQL file to create the necessary tables.
-4. Modify the database connection details in the PHP files as needed (`localhost`, username, password).
-5. Access the application via `localhost` in your browser.
-
-## Usage
-- Navigate to the **Add Student** page to add new student records.
-- Use the **View Students** section to view existing student records and update their details.
-
-## Contribution
-Feel free to fork this repository and submit pull requests. Contributions are welcome!
